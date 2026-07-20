@@ -66,7 +66,7 @@ export function MobileDrawer({ open, onOpenChange }: MobileDrawerProps) {
                       className={cn(
                         "group flex gap-x-3 rounded-lg p-3 text-sm font-medium leading-6 transition-colors",
                         isActive
-                          ? "bg-sidebar-accent text-sidebar-accent-foreground"
+                          ? "bg-primary text-primary-foreground"
                           : "text-sidebar-foreground hover:bg-sidebar-accent/50 hover:text-sidebar-accent-foreground"
                       )}
                     >
@@ -74,7 +74,7 @@ export function MobileDrawer({ open, onOpenChange }: MobileDrawerProps) {
                         className={cn(
                           "h-5 w-5 shrink-0",
                           isActive
-                            ? "text-sidebar-accent-foreground"
+                            ? "text-primary-foreground"
                             : "text-sidebar-foreground/70 group-hover:text-sidebar-accent-foreground"
                         )}
                       />
