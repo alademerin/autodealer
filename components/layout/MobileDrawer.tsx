@@ -48,7 +48,7 @@ export function MobileDrawer({ open, onOpenChange }: MobileDrawerProps) {
                 <Car className="h-5 w-5 text-sidebar-primary-foreground" />
               </div>
               <SheetTitle className="text-lg font-semibold text-sidebar-foreground">
-                AutoDealer
+                DriveSmart Motors
               </SheetTitle>
             </div>
           </SheetHeader>

@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "AutoDealer - Car Dealer Management System",
+  title: "DriveSmart Motors - Car Dealer Management System",
   description: "Professional car dealership management platform",
 };
 

@@ -102,7 +102,7 @@ export default function DashboardPage() {
       <div className="space-y-6">
         <PageHeader
           title="Dashboard"
-          description="Welcome to AutoDealer Management System"
+          description="Welcome to DriveSmart Motors Management System"
         />
         <Loading />
       </div>
@@ -114,7 +114,7 @@ export default function DashboardPage() {
       <div className="space-y-6">
         <PageHeader
           title="Dashboard"
-          description="Welcome to AutoDealer Management System"
+          description="Welcome to DriveSmart Motors Management System"
         />
         <div className="rounded-lg border border-destructive bg-destructive/10 p-4">
           <p className="text-sm text-destructive">{error}</p>
@@ -127,7 +127,7 @@ export default function DashboardPage() {
     <div className="space-y-6">
       <PageHeader
         title="Dashboard"
-        description="Welcome to AutoDealer Management System"
+        description="Welcome to DriveSmart Motors Management System"
       />
 
       {/* KPI Cards */}

@@ -25,7 +25,7 @@ export function Navbar({ onMenuClick }: NavbarProps) {
 
         {/* Mobile logo */}
         <div className="flex items-center gap-2 lg:hidden">
-          <span className="text-lg font-semibold">AutoDealer</span>
+          <span className="text-lg font-semibold">DriveSmart Motors</span>
         </div>
 
         {/* Spacer */}
@@ -38,7 +38,7 @@ export function Navbar({ onMenuClick }: NavbarProps) {
         >
           <Avatar className="h-9 w-9 cursor-pointer transition-opacity hover:opacity-80">
             <AvatarFallback className="bg-primary text-primary-foreground">
-              AD
+              DS
             </AvatarFallback>
           </Avatar>
         </button>

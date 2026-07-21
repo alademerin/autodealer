@@ -36,7 +36,7 @@ export function Sidebar() {
               <Car className="h-5 w-5 text-sidebar-primary-foreground" />
             </div>
             <span className="text-lg font-semibold text-sidebar-foreground">
-              AutoDealer
+              DriveSmart Motors
             </span>
           </div>
         </div>
